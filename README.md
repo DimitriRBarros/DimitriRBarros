@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Eu sou o Dimitri Barros, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Sou o Dimitri, um desenvolvedor Front End apaixonado por tecnologia. Com experiência sólida em HTML, CSS e JavaScript.
+Especializado em frameworks como Vue.js, React e Angular, tenho habilidades avançadas no desenvolvimento de interfaces web intuitivas, responsivas e visualmente atraentes. Minha paixão é transformar ideias em códigos de alta qualidade.
 
 <br>
 
