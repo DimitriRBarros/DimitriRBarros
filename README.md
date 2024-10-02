@@ -1,18 +1,21 @@
-### Hi there 👋
+## Olá! Eu sou Dimitri 👋
 
-Sou o Dimitri, um desenvolvedor Front End apaixonado por tecnologia. Com experiência sólida em HTML, CSS e JavaScript.
-Especializado em frameworks como Vue.js, React e Angular, tenho habilidades avançadas no desenvolvimento de interfaces web intuitivas, responsivas e visualmente atraentes. Minha paixão é transformar ideias em códigos de alta qualidade.
+### Sobre Mim
+Sou desenvolvedor Backend especializado em Java com Spring. Tenho experiência na criação de aplicações robustas e escaláveis, além de integração com diversos serviços e bancos de dados.
 
-<br>
+- 🌱 Atualmente estudando automação de testes e boas práticas em microsserviços.
+- 👯 Buscando colaborar em projetos de código aberto na comunidade Java.
 
- - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
- - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
- - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
- 
- <br>
- 
- [![Dimitri Stats](https://github-readme-stats.vercel.app/api?username=DimitriRBarros)](https://github.com/anuraghazra/github-readme-stats)
- 
- <br>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriRBarros)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### ⚙️ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
+### 📊 Tecnologias Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+
+---
+
+### 🌐 Vamos Conectar
+- [LinkedIn](https://www.linkedin.com/in/dimitri-barros-982593277/)
+- [Portfólio](https://www.seuportfolio.com)
