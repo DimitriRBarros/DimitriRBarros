@@ -1,10 +1,17 @@
 ## Olá! Eu sou Dimitri 👋
 
 ### Sobre Mim
-Sou desenvolvedor Backend especializado em Java com Spring. Tenho experiência na criação de aplicações robustas e escaláveis, além de integração com diversos serviços e bancos de dados.
+Sou um profissional apaixonado por tecnologia, dedicado à qualidade de software e com uma sólida experiência como QA. Minha trajetória combina habilidades em desenvolvimento frontend e backend com a aplicação de melhores práticas em testes, garantindo a entrega de produtos robustos e confiáveis.
 
-- 🌱 Atualmente estudando automação de testes e boas práticas em microsserviços.
-- 👯 Buscando colaborar em projetos de código aberto na comunidade Java.
+Atualmente, preparo-me para a certificação CTFL com o objetivo de aprofundar minha expertise e consolidar minha carreira como referência em qualidade de software.
+
+Minhas principais competências incluem:
+- Experiência em testes manuais e automatizados, assegurando a qualidade de produtos complexos.
+- Conhecimento avançado em ferramentas como Cypress, Jest, Robot Framework, Postman e experiência intermediária com Selenium.
+- Domínio de práticas de CI/CD e monitoramento de qualidade de código para entrega contínua.
+- Habilidades em frontend com HTML, CSS, JavaScript e Vue.js, além de experiência em backend com Node.js, Express e MySQL.
+- Proficiência em análise de requisitos e desenvolvimento de casos de teste detalhados.
+- Foco em metodologias ágeis para promover entregas colaborativas e de alta qualidade.
 
 ---
 
