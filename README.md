@@ -28,7 +28,11 @@ Tenho uma abordagem orientada a valor: **a qualidade não está só na entrega t
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 📌 Testes Automatizados
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### 📌 Testes Manuais & Estratégias
 ![Manual Testing](https://img.shields.io/badge/Testes%20Manuais-E2E%2C%20Exploratórios%2C%20Regressão-blue?style=for-the-badge)
