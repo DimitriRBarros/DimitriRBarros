@@ -1,32 +1,27 @@
-## Olá! Eu sou Dimitri 👋
+## 👋 Olá! Eu sou o Dimitri
 
-## Sobre mim
+Atuo como Quality Assurance com foco em entregar valor real para o usuário final. Acredito que QA não é só garantir que “funciona”, mas sim garantir que **faz sentido para o negócio e resolve a dor do cliente**.
 
-Meu nome é Dimitri. Atuo como QA com paixão por entender o "porquê" das coisas, não apenas o "como".
+Tenho experiência sólida com testes manuais e automação com Cypress, validação de APIs com Postman e integração de testes em pipelines CI/CD. Minha atuação vai além da execução de testes: gosto de entender o produto como um todo, desde a concepção da funcionalidade até o impacto para o usuário.
 
-Trabalho com testes manuais e automatizados (Cypress), mas não me limito a validar funcionalidades: gosto de pensar como o usuário, antecipar problemas e contribuir para que o produto entregue valor de verdade.
+### 🚀 O que me diferencia:
+- **Olhar crítico de produto**: questiono requisitos, proponho melhorias e participo ativamente das decisões que impactam o valor entregue.
+- **Mentalidade de PO**: me coloco no lugar do cliente e colaboro com times para garantir entregas que realmente resolvem problemas.
+- **Qualidade integrada ao processo**: defendo qualidade desde o planejamento até o pós-release, não apenas no momento do teste.
 
-Venho evoluindo no frontend com React e Vue, porque acredito que conhecimento técnico amplia minha visão de produto — e essa visão é o que me guia rumo ao meu próximo passo: **Product Owner**.
-
-Acredito em qualidade como responsabilidade coletiva. Por isso, estou sempre aprendendo, ensinando e buscando formas melhores de construir software.
-
----
-
-📍 Local: Brasil  
-🔧 Explorando: automação de testes, design de produtos, liderança técnica  
-🎯 Em transição: QA ➡️ PO  
-📬 Conecte-se comigo no [LinkedIn](https://seulinkedin.com)
-
----
-
-### ⚙️ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
-
-### 📊 Tecnologias Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+### 🛠️ Tecnologias e Ferramentas
+- **Testes Automatizados**: Cypress, JavaScript
+- **Testes Manuais e Estratégias**: Testes exploratórios, testes regressivos, cenários E2E
+- **APIs**: Postman, Swagger
+- **CI/CD**: Bitbucket Pipelines, GitHub Actions
+- **Outros**: Jira, Notion, Git, Figma (para validações de layout e usabilidade)
 
 ---
+
+### 🎯 Visão Profissional
+Minha missão é evoluir como um QA estratégico, com visão de produto, comunicação com stakeholders e atuação próxima ao time de desenvolvimento e negócios. Acredito que qualidade é responsabilidade de todos — e começa no entendimento do problema.
+
 
 ### 🌐 Vamos Conectar
 - [LinkedIn](https://www.linkedin.com/in/dimitri-barros-982593277/)
-- [Portfólio](https://www.seuportfolio.com)
+
