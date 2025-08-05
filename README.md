@@ -1,25 +1,54 @@
-## 👋 Olá! Eu sou o Dimitri
+<h1 align="center">👋 Olá, eu sou o Dimitri</h1>
 
-Atuo como Quality Assurance com foco em entregar valor real para o usuário final. Acredito que QA não é só garantir que “funciona”, mas sim garantir que **faz sentido para o negócio e resolve a dor do cliente**.
-
-Tenho experiência sólida com testes manuais e automação com Cypress, validação de APIs com Postman e integração de testes em pipelines CI/CD. Minha atuação vai além da execução de testes: gosto de entender o produto como um todo, desde a concepção da funcionalidade até o impacto para o usuário.
-
-### 🚀 O que me diferencia:
-- **Olhar crítico de produto**: questiono requisitos, proponho melhorias e participo ativamente das decisões que impactam o valor entregue.
-- **Mentalidade de PO**: me coloco no lugar do cliente e colaboro com times para garantir entregas que realmente resolvem problemas.
-- **Qualidade integrada ao processo**: defendo qualidade desde o planejamento até o pós-release, não apenas no momento do teste.
-
-### 🛠️ Tecnologias e Ferramentas
-- **Testes Automatizados**: Cypress, JavaScript
-- **Testes Manuais e Estratégias**: Testes exploratórios, testes regressivos, cenários E2E
-- **APIs**: Postman, Swagger
-- **CI/CD**: Bitbucket Pipelines, GitHub Actions
-- **Outros**: Jira, Notion, Git, Figma (para validações de layout e usabilidade)
+<p align="center">
+  <em>Quality Assurance com mentalidade de Product Owner<br/>
+  Foco em qualidade que gera valor real ao negócio e ao usuário final.</em>
+</p>
 
 ---
 
-### 🎯 Visão Profissional
-Minha missão é evoluir como um QA estratégico, com visão de produto, comunicação com stakeholders e atuação próxima ao time de desenvolvimento e negócios. Acredito que qualidade é responsabilidade de todos — e começa no entendimento do problema.
+## 🧠 Sobre mim
+
+Sou QA com forte atuação em testes manuais e automatizados (Cypress). Mas mais do que executar testes, busco compreender a fundo o produto, os requisitos e — principalmente — o impacto para o cliente final.
+
+Tenho uma abordagem orientada a valor: **a qualidade não está só na entrega técnica, mas em como ela resolve um problema real**. Por isso, colaboro com times de produto, questiono o que precisa ser melhorado e proponho soluções desde o início do ciclo de desenvolvimento.
+
+---
+
+## 🎯 O que me diferencia
+
+✅ Olhar crítico e estratégico sobre o produto  
+✅ Forte colaboração com times de produto e negócio  
+✅ Mentalidade de PO — foco no "porquê", não só no "como"  
+✅ Preocupação com usabilidade, valor de negócio e experiência do usuário  
+✅ Participação ativa em refinamentos, validação de critérios de aceitação e prevenção de bugs
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 📌 Testes Automatizados
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+### 📌 Testes Manuais & Estratégias
+![Manual Testing](https://img.shields.io/badge/Testes%20Manuais-E2E%2C%20Exploratórios%2C%20Regressão-blue?style=for-the-badge)
+
+### 📌 APIs
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 📌 CI/CD e Integração
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📌 Gestão e Colaboração
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+---
 
 
 ### 🌐 Vamos Conectar
